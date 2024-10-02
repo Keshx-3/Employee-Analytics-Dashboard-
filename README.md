@@ -34,8 +34,7 @@ The dataset used for this dashboard is available [here](https://docs.google.com/
 
 ## Output
 
-![image](https://github.com/user-attachments/assets/ab5da0b9-f820-4425-81cc-4bd048983b43)
-
+![image](https://github.com/user-attachments/assets/97445b2f-2244-4e63-a581-464e65bb9e12)
 
 ## Access the Dashboard
 
