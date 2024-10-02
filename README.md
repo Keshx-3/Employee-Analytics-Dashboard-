@@ -32,6 +32,11 @@ The Employee Analytics Dashboard provides insights into key HR metrics, helping 
 
 The dataset used for this dashboard is available [here](https://docs.google.com/spreadsheets/d/1UtyPCg6CC6Au8oCoe7mhEq0IU6Iy2dDgoqdJDDb4X7U/edit?usp=sharing). It contains detailed employee information, which powers the visualizations and metrics in the dashboard.
 
+## Output
+
+![image](https://github.com/user-attachments/assets/ab5da0b9-f820-4425-81cc-4bd048983b43)
+
+
 ## Access the Dashboard
 
 You can view the live dashboard [here](https://lookerstudio.google.com/s/oDINcV9U17k).
